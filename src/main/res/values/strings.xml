@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="nameTextView">QUIZ APP</string>
+    <string name="welcomeTextView">Welcome</string>
+    <string name="infoTextVIew">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="startButton">START</string>
+    <string name="exampleTextView">Example</string>
+    <string name="submitButton">SUBMIT</string>
+    <string name="resultTextView">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="username">Username</string>
+    <string name="finish">FINISH</string>
+</resources>
